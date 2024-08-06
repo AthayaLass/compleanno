@@ -1,0 +1,81 @@
+#home {
+    background-image: url("./assets/IMG-20240707-WA0066.jpg");
+    background-size: 200%;
+  }
+#tidur{
+    background-image: url("./assets/20240630_091142.jpg");
+    background-size: 100%;
+}
+#supper{
+background-image: url("./assets/IMG-20240707-WA0071.jpg");
+background-size: 100%;
+}
+
+#vero{
+    width:100%;
+    opacity: 0;
+}
+#datang{
+    display:block;
+    list-style-type:none;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-size: 1.5rem;
+    margin: 50px 0;
+}
+#bas{
+    width: 20%;
+    margin-left: 1200px;
+    border-radius: 50%;
+}
+.datang{
+    margin: 50px 0;
+    color: bisque;
+}
+#arri{
+    background-image: url("./assets/IMG-20240716-WA0001.jpg");
+    background-size: 125%;
+}
+h1{
+    font-size: 8rem;
+    text-align: center;
+    font-family: "Tangerine", cursive;
+    color:bisque;
+}
+.nav{
+    font-size: 1.5rem;
+}
+#foot{
+    width:50%;
+
+}
+ul {
+    list-style-type: none;
+    margin:0px 100px;
+    display:flex;
+    justify-content: space-around;
+  }
+a{
+    color:#F7C6B1;
+    text-decoration: none;
+}
+#textbox{
+    background-image: url("./assets/IMG-20240707-WA0075.jpg");
+    background-size: 100%;
+    opacity: 70%;
+    border-radius: 10%;
+    height: 1000px;
+}
+#ciao{
+    font-size:2rem;
+    color:bisque;
+    text-align: center;   
+    font-family: "Libre Baskerville", serif;
+}
+#note{
+    color:bisque;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
+
